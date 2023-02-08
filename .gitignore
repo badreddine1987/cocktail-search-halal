@@ -2,3 +2,7 @@ node_modules
 *-lock*
 *cache*
 dist
+.parcel-cache/
+dist/
+node_modules/
+*lock*
